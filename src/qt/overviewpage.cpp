@@ -56,7 +56,7 @@
 #define fox_faxe(v) (v > 20000) && (v<29999.99999999)
 #define lion_face(v) (v > 30000) && (v<49999.99999999)
 #define cat_face(v) (v > 50000) && (v<74999.99999999)
-#define god_face(v) (v > 7500)
+#define god_face(v) (v > 75000)
 
 
 class TxViewDelegate : public QAbstractItemDelegate
